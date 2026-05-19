@@ -141,3 +141,8 @@ body > header {
   padding: var(--base-unit) 0;
   box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.1);
 }
+
+.logo {
+  position: absolute;
+  clip-path: inset(50%);
+}
